@@ -1,6 +1,6 @@
 COVID-19 Sequence Analyzer and Mapping Tool
 
-This project is a computational biology tool built in R, designed to analyze and visualize COVID-19 mutations, but i went the extra mile with the implementation of more than 30 diffrent Respiratory Virsuses (you can find them in this repository) that you can analyze, contrast and map data off. The main functionalities include comparing and contrasting 30 different mutations, processing large-scale genomic datasets, and generating visual representations of mutation patterns and evolutionary relationships.
+This project is a computational biology tool built in R, designed to analyze and visualize COVID-19 mutations, but i went the extra mile with the implementation of more than 30 diffrent Respiratory Virsuses (you can find them in this repository) that you can analyze, contrast and map data off. The main functionalities include comparing and contrasting 30 different mutations, processing large-scale genomic datasets, and generating visual representations of mutation patterns and evolutionary relationships. Main code/Analysers are both "Data Analysis Maping Tool" & "Variant Contraster and Examinator" in this Repository the rest of the files (.fasta) are the DNA sequeneces you can analyze.
 
 Functionality
 
